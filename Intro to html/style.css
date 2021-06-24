@@ -1,0 +1,99 @@
+body{
+    margin: left 60px;
+padding: 0px;
+ }
+ #content{
+     margin-top: 40px;
+ }
+ /* main header */
+ main{
+     width: 70%;
+ }
+ #main-header{
+     width: 100%;
+ }
+p{
+    /* color:blue; */
+    font-size: 20px;
+}
+
+h1{
+    font-size: 40px;
+    text-align:center;
+    font-family: Montserrat;
+    background-color: teal;
+
+}
+/* h4{
+    text-transform:uppercase;
+}
+*/
+.uppercase{
+    text-transform:uppercase ;
+}
+.cursive{
+font-family: cursive;
+}
+#blog-description{
+color: #314831;
+}
+ h4{
+    font-family:cursive;
+}
+#blog-title :hover{
+      color: tomato;
+}
+#views img{
+    height: 15px;
+    width: 15px;
+}
+#views span{
+    font-size: 1rem;
+    font-family: sans-serif;
+}
+#blog-content {
+    font-size: 1.1rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    word-spacing: 1px;
+line-height: 1.4;
+}
+/* aside */
+aside{
+    display:inline-block;
+    width: 21%;
+    vertical-align: top;
+    margin-left: 1.4;
+
+}
+.widget{
+    border-top: 4px solid black;
+}
+input{
+    display: block; 
+    background-color:#dacbcb ;
+    margin-bottom:15px;
+    padding: 4px;
+    color: black;
+    font-size: 1.2rem;
+}
+button[type="submit"]{
+    font-size: 1.2rem;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+.widget-title{
+    font-size: 1.5rem;
+}
+#facebook{backround-color: #2d4373;
+    
+}
+#facebook hover:{
+    color:#3b5998;
+}
+
+
+
+
+
+
